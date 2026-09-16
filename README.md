@@ -1,1 +1,3 @@
-<img src="https://github.com/user-attachments/assets/8229a3a8-9e7f-4b56-a225-5d2ccb4535db" alt="Alt Text" width="500" height="200">
+![https://img.shields.io/badge/pronouns-she/her-pink](https://img.shields.io/badge/pronouns-she/her-pink)
+
+![https://img.shields.io/badge/LUA-grey?logo=lua](https://img.shields.io/badge/LUA-grey?logo=lua) ![https://img.shields.io/badge/Python-grey?logo=python](https://img.shields.io/badge/Python-grey?logo=python) ![https://img.shields.io/badge/Linux-grey?logo=linux](https://img.shields.io/badge/Linux-grey?logo=linux)
